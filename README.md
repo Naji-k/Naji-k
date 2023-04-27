@@ -1,4 +1,11 @@
-### Hi there 👋
+# 👋 Hi there, and welcome to my Github profile!
+
+
+#### My name is Naji, and I am a student software engineer at [Codam](https://www.codam.nl/) which is part of the [42 network](https://42.fr/en/network-42/). With a background as Mobile App Developer.
+
+I have a passion for programming and enjoy working on various projects.
+
+ You can find an overview of all my codam projects [here](https://github.com/Naji-k/Codam-projects).
 
 <!--
 **Naji-k/Naji-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
