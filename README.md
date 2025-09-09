@@ -1,11 +1,10 @@
-# 👋 Hi there, and welcome to my Github profile!
+# 👋 Hi, I’m Naji Kanounji
+### 🚀 Software Engineer | Backend & Mobile Developer | Automation Enthusiast
 
-
-#### My name is Naji, and I am a student software engineer at [Codam](https://www.codam.nl/) which is part of the [42 network](https://42.fr/en/network-42/). With a background as Mobile App Developer.
-
-I have a passion for programming and enjoy working on various projects.
-
- You can find an overview of all my codam projects [here](https://github.com/Naji-k/Codam-projects).
+#### I’m a software engineer with experience in backend development, mobile apps, and system-level programming. 
+#### My journey started in mobile development (iOS & Android), but my curiosity for deeper engineering led me to [Codam](https://www.codam.nl/) which is part of the [42 network](https://42.fr/en/network-42/), where I built projects in C, C++, Python, and full-stack web applications.
+#### ✨ Obsessed with finding better solutions and automating the boring stuff.
+You can find an overview of all my codam projects [here](https://github.com/Naji-k/Codam-projects).
 
 <!--
 **Naji-k/Naji-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
